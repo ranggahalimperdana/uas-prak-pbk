@@ -39,7 +39,7 @@ h1 {
   align-items: center;
   flex-direction: column;
   margin-top: -80px; /* Tambahkan margin top untuk memberi ruang di atas konten */
-  background-image: url('https://images.pexels.com/photos/3394939/pexels-photo-3394939.jpeg'); /* Ganti dengan URL gambar latar belakang yang baru */
+  
   background-size: cover;
   background-position: center;
   width: 100%; /* Pastikan gambar latar belakang mengisi seluruh area content */
@@ -94,7 +94,6 @@ input {
   display: flex;
   align-items: center;
   padding: 0 30px; /* Meningkatkan padding navbar */
-  background-image: url('https://e1.pxfuel.com/desktop-wallpaper/239/131/desktop-wallpaper-animated-rain-windows-10.jpg'); /* Path to your new weather image */
   background-size: cover;
   background-position: center;
   color: white; /* Ensure text is visible */

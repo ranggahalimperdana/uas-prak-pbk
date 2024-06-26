@@ -68,7 +68,7 @@ export default {
     };
 
     const getWeatherIconUrl = (iconCode) => {
-      return `https://openweathermap.org/img/wn/${iconCode}.png`;
+      // return `https://openweathermap.org/img/wn/${iconCode}.png`;
     };
 
     return {
@@ -98,7 +98,6 @@ export default {
   border-radius: 10px;
   background-color: #f0f0f0;
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
-  background-image: url("https://wallpapercave.com/uwp/uwp4272263.jpeg"); /* Ganti dengan URL gambar latar belakang yang valid */
   background-size: cover;
   background-position: center;
   text-align: center; /* Memastikan konten di tengah secara vertikal */
